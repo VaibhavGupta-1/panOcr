@@ -636,4 +636,4 @@ fun isValidNameCandidate(text: String): Boolean {
             !text.contains("SIGNATURE") &&
             !text.contains("PAN") &&
             text.split(" ").size >= 2 // At least two words for a full name
-}   
+}
