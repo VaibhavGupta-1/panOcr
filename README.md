@@ -2,6 +2,10 @@
 
 An Android application built with Kotlin and Jetpack Compose that scans Indian PAN cards and extracts essential personal details using Google ML Kit OCR.
 
+![PanOcr](https://github.com/user-attachments/assets/37aaf320-7737-4862-bbb3-980483ff20d1)
+
+
+
 ## ✨ Features
 
 - 📷 **Camera Capture with CameraX**: Full camera preview with high-quality image capture using MediaImage
